@@ -16,7 +16,7 @@ int main()
 
         if(p==NULL)
         {
-                printf("\nmemorijska alokacija nije uspjela.\n");
+                printf("\nMemorijska alokacija nije uspjela.\n");
                 exit(0);
         }
         for(i=0;i<n;i++)
